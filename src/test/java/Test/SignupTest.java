@@ -47,5 +47,10 @@ public class SignupTest
 	{
 		System.out.println("I m Display");
 	}
+	@Test
+	public void display1()
+	{
+		System.out.println("I m Display1");
+	}
 
 }
